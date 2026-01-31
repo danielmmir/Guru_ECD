@@ -1,0 +1,10 @@
+streamlit
+langchain>=0.3
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-chroma
+chromadb
+pypdf
+tqdm
+ollama
